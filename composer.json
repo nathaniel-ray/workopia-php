@@ -1,0 +1,16 @@
+{
+    "name":"nathaniel-ray/workopia-php",
+    "description": "job listing application",
+    "authors": [
+        {
+            "name": "Raymond Anyanwu",
+            "email": "raymondanyanwu7@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\" :"Framework/",
+            "App\\":"App/"
+        }
+    }
+}
