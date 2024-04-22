@@ -5,7 +5,7 @@ consists of the composer psr-4 auto loader
 
 
 This is the basic screenshot of the seach functionalities of the workopia landing page
-![listings](https://github.com/nathaniel-ray/workopia-php/assets/145053690/794df899-f6c6-4970-bf37-0bd566fb1a0f)
+
 
 
 The listings example;
